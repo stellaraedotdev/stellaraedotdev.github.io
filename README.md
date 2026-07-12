@@ -1,6 +1,9 @@
 # Stellarae Company Website
 
-This directory contains the company-facing static website showcasing our commitment to open source security infrastructure.
+-- This repository is under review --
+It has appeared that the outside developer that has been hired for this site may have used gen-AI to create this site in it's entirety. We do not stand for this and as such a review is being conducted to substatiate these claims.
+Myself (@Env-Ir0n) had no hand in creating this site and simply used my account to add the commits to github as they came into the internal repository.
+Thank you for your patience and reporting.
 
 ## Pages
 
